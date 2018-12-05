@@ -1,0 +1,26 @@
+{
+  "name": "Fastify-HTTP2-Server",
+  "version": "1.0.0",
+  "description": "HTTP2 server built using Fastify with HTTPS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oba-One/Fastify-HTTP2-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oba-One/Fastify-HTTP2-Server/issues"
+  },
+  "homepage": "https://github.com/Oba-One/Fastify-HTTP2-Server#readme",
+  "dependencies": {
+    "fastify": "^1.13.1",
+    "fastify-compress": "^0.7.1",
+    "fastify-cors": "^0.2.0",
+    "fastify-helmet": "^3.0.0"
+  }
+}
